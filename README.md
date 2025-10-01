@@ -22,8 +22,8 @@
 
 # Getting Started
 1. Clone the repository:  
-git clone https://github.com/your-username/project-name.git  
-cd project-name  
+git clone https://github.com/derpedcatto/Landing-Page-MyBiKE.git
+cd Landing-Page-MyBiKE
 
 2. Install dependencies:  
 npm install  
