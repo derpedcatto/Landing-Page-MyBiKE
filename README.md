@@ -1,6 +1,5 @@
 # MyBiKE Store Landing Page
 - This project showcases a fully responsive static landing page for bike e-commerce store built on BEM Methodology.
-<br />
 <img width="2016" height="1131" alt="landing_desktop" src="https://github.com/user-attachments/assets/6d860669-d366-4216-8dc5-fecf2f72e52f" />
 
 # Live Demo
